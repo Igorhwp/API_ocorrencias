@@ -1,0 +1,219 @@
+[{
+  "_id": {
+    "$oid": "674c83307e8c9462f76ba376"
+  },
+  "cpf": "11111111111",
+  "nome": "João Silva",
+  "dtnasc": "1985-05-15",
+  "telefone": "(11) 98765-4321",
+  "email": "joao.silva@email.com",
+  "password": "senha123",
+  "objetos": [
+    {
+      "num_serie": "OBJ111",
+      "marca": "Samsung",
+      "modelo": "Galaxy S21",
+      "cor": "Preto",
+      "categoria": "Eletrônico",
+      "observacoes": "Sem avarias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c83307e8c9462f76ba377"
+  },
+  "cpf": "22222222222",
+  "nome": "Maria Oliveira",
+  "dtnasc": "1990-07-10",
+  "telefone": "(21) 91234-5678",
+  "email": "maria.oliveira@email.com",
+  "password": "senha456",
+  "objetos": [
+    {
+      "num_serie": "OBJ112",
+      "marca": "Apple",
+      "modelo": "iPhone 12",
+      "cor": "Branco",
+      "categoria": "Eletrônico",
+      "observacoes": "Sem uso"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c83307e8c9462f76ba378"
+  },
+  "cpf": "33333333333",
+  "nome": "Carlos Souza",
+  "dtnasc": "1980-03-20",
+  "telefone": "(31) 98765-4321",
+  "email": "carlos.souza@email.com",
+  "password": "senha789",
+  "objetos": [
+    {
+      "num_serie": "OBJ113",
+      "marca": "Dell",
+      "modelo": "Inspiron 15",
+      "cor": "Prata",
+      "categoria": "Eletrônico",
+      "observacoes": "Bom estado"
+    },
+    {
+      "num_serie": "OBJ114",
+      "marca": "HP",
+      "modelo": "Pavilion",
+      "cor": "Preto",
+      "categoria": "Eletrônico",
+      "observacoes": "Pequenos riscos"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c83307e8c9462f76ba379"
+  },
+  "cpf": "44444444444",
+  "nome": "Ana Costa",
+  "dtnasc": "1995-12-25",
+  "telefone": "(41) 99876-5432",
+  "email": "ana.costa@email.com",
+  "password": "senha321",
+  "objetos": [
+    {
+      "num_serie": "OBJ115",
+      "marca": "Sony",
+      "modelo": "PlayStation 5",
+      "cor": "Branco",
+      "categoria": "Eletrônico",
+      "observacoes": "Novo em folha"
+    },
+    {
+      "num_serie": "OBJ116",
+      "marca": "Microsoft",
+      "modelo": "Xbox Series X",
+      "cor": "Preto",
+      "categoria": "Eletrônico",
+      "observacoes": "Com uso moderado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c83307e8c9462f76ba37a"
+  },
+  "cpf": "55555555555",
+  "nome": "Pedro Lima",
+  "dtnasc": "2000-09-05",
+  "telefone": "(51) 92345-6789",
+  "email": "pedro.lima@email.com",
+  "password": "senha654",
+  "objetos": [
+    {
+      "num_serie": "OBJ117",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad",
+      "cor": "Preto",
+      "categoria": "Eletrônico",
+      "observacoes": "Sem avarias"
+    },
+    {
+      "num_serie": "OBJ118",
+      "marca": "Acer",
+      "modelo": "Aspire 7",
+      "cor": "Cinza",
+      "categoria": "Eletrônico",
+      "observacoes": "Bom estado"
+    },
+    {
+      "num_serie": "OBJ119",
+      "marca": "Samsung",
+      "modelo": "Galaxy Watch",
+      "cor": "Preto",
+      "categoria": "Wearable",
+      "observacoes": "Novo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c8976e23cb31514bb8565"
+  },
+  "cpf": "12345678901",
+  "nome": "João Silva",
+  "dtnasc": "1990-01-01",
+  "telefone": "(11) 98765-4321",
+  "email": "joao.silva@email.com",
+  "password": "senha123",
+  "objetos": [
+    {
+      "num_serie": "ABC12345",
+      "marca": "Samsung",
+      "modelo": "Galaxy S21",
+      "cor": "Preto",
+      "categoria": "Eletrônico",
+      "observacoes": "Sem avarias"
+    },
+    {
+      "num_serie": "XYZ98765",
+      "marca": "LG",
+      "modelo": "Smart TV 55",
+      "cor": "Preto",
+      "categoria": "Eletrônico",
+      "observacoes": "Novo em folha"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674cd6c7b4f67700923f65dd"
+  },
+  "cpf": "09831306988",
+  "nome": "Igor Pontes",
+  "dtnasc": "18-10-1997",
+  "telefone": "47988023193",
+  "email": "igorhwp@gmail.com",
+  "password": "123456",
+  "objetos": [
+    {
+      "num_serie": "456",
+      "marca": "Apple",
+      "modelo": "IPhone 15",
+      "cor": "Dourado",
+      "categoria": "Celular",
+      "observacoes": "Novo"
+    },
+    {
+      "num_serie": "123",
+      "marca": "Acer",
+      "modelo": "Nitro",
+      "cor": "Preto",
+      "categoria": "Notebook",
+      "observacoes": "Sem observações"
+    },
+    {
+      "num_serie": "789",
+      "marca": "Caloi",
+      "modelo": "Passeio",
+      "cor": "Azul",
+      "categoria": "Bicicleta",
+      "observacoes": "Adesivo vermelho"
+    },
+    {
+      "num_serie": "111",
+      "marca": "Motorola",
+      "modelo": "Moto G",
+      "cor": "Verde",
+      "categoria": "Celular",
+      "observacoes": "Capinha Preta"
+    },
+    {
+      "num_serie": "222",
+      "marca": "teste",
+      "modelo": "teste",
+      "cor": "teste",
+      "categoria": "teste",
+      "observacoes": "teste"
+    }
+  ]
+}]
