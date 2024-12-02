@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "674c83c6a1c0499aaaecfd28"
+  },
+  "matricula": "AGT001",
+  "nome": "Rafael Souza",
+  "password": "senha123"
+},
+{
+  "_id": {
+    "$oid": "674c83c6a1c0499aaaecfd29"
+  },
+  "matricula": "AGT002",
+  "nome": "Fernanda Lima",
+  "password": "senha456"
+},
+{
+  "_id": {
+    "$oid": "674c83c6a1c0499aaaecfd2a"
+  },
+  "matricula": "AGT003",
+  "nome": "Lucas Alves",
+  "password": "senha789"
+},
+{
+  "_id": {
+    "$oid": "674c83c6a1c0499aaaecfd2b"
+  },
+  "matricula": "AGT004",
+  "nome": "Juliana Ramos",
+  "password": "senha321"
+},
+{
+  "_id": {
+    "$oid": "674c83c6a1c0499aaaecfd2c"
+  },
+  "matricula": "AGT005",
+  "nome": "Paulo Costa",
+  "password": "senha654"
+},
+{
+  "_id": {
+    "$oid": "674d08a3d6da2d8ddf43c2ef"
+  },
+  "matricula": "54878",
+  "nome": "Pontes",
+  "password": "123456"
+}]

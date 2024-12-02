@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "674c8797878953f5eb074ef7"
+  },
+  "matricula": "AGT001",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdec"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074ef8"
+  },
+  "matricula": "AGT002",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabded"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074ef9"
+  },
+  "matricula": "AGT003",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdee"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074efa"
+  },
+  "matricula": "AGT004",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdef"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074efb"
+  },
+  "matricula": "AGT002",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdec"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074efc"
+  },
+  "matricula": "AGT005",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabded"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074efd"
+  },
+  "matricula": "AGT001",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdee"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074efe"
+  },
+  "matricula": "AGT003",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdef"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074eff"
+  },
+  "matricula": "AGT003",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdec"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074f00"
+  },
+  "matricula": "AGT005",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdec"
+  }
+},
+{
+  "_id": {
+    "$oid": "674c8797878953f5eb074f01"
+  },
+  "matricula": "AGT005",
+  "ocorrencia_id": {
+    "$oid": "674c84f255d3182954dabdf0"
+  }
+}]

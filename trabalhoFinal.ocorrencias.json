@@ -1,0 +1,246 @@
+[{
+  "_id": {
+    "$oid": "674c84f255d3182954dabdec"
+  },
+  "cpf_usuario": "11111111111",
+  "num_serie_objeto": "OBJ111",
+  "data": "2024-12-01",
+  "local": {
+    "rua": "Rua A",
+    "numero": "10",
+    "bairro": "Centro"
+  },
+  "descricao": "Roubo de celular",
+  "providencias": [
+    {
+      "matricula_agente": "AGT001",
+      "descricao": "Investigação inicial iniciada"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c84f255d3182954dabded"
+  },
+  "cpf_usuario": "22222222222",
+  "num_serie_objeto": "OBJ112",
+  "data": "2024-11-25",
+  "local": {
+    "rua": "Rua B",
+    "numero": "20",
+    "bairro": "Jardins"
+  },
+  "descricao": "Furto de iPhone",
+  "providencias": [
+    {
+      "matricula_agente": "AGT002",
+      "descricao": "Envio de patrulha ao local"
+    },
+    {
+      "matricula_agente": "AGT001",
+      "descricao": "Realizado rondas no local, porém, nada foi encontrado"
+    },
+    {
+      "matricula_agente": "54878",
+      "descricao": "Objeto recuperado posteriormente e entregue ao proprietário"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c84f255d3182954dabdee"
+  },
+  "cpf_usuario": "33333333333",
+  "num_serie_objeto": "OBJ113",
+  "data": "2024-11-20",
+  "local": {
+    "rua": "Rua C",
+    "numero": "30",
+    "bairro": "Industrial"
+  },
+  "descricao": "Notebook furtado",
+  "providencias": [
+    {
+      "matricula_agente": "AGT003",
+      "descricao": "Abertura de investigação"
+    },
+    {
+      "matricula_agente": "AGT004",
+      "descricao": "Interrogatório com testemunhas"
+    },
+    {
+      "matricula_agente": "AGT005",
+      "descricao": "Monitoramento da área"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c84f255d3182954dabdef"
+  },
+  "cpf_usuario": "44444444444",
+  "num_serie_objeto": "OBJ115",
+  "data": "2024-11-15",
+  "local": {
+    "rua": "Rua D",
+    "numero": "40",
+    "bairro": "Nobre"
+  },
+  "descricao": "PlayStation roubado",
+  "providencias": [
+    {
+      "matricula_agente": "AGT001",
+      "descricao": "Consulta a câmeras de segurança"
+    },
+    {
+      "matricula_agente": "AGT003",
+      "descricao": "Reforço na vigilância local"
+    },
+    {
+      "matricula_agente": "AGT004",
+      "descricao": "Identificação de suspeitos"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674c84f255d3182954dabdf0"
+  },
+  "cpf_usuario": "55555555555",
+  "num_serie_objeto": "OBJ117",
+  "data": "2024-11-10",
+  "local": {
+    "rua": "Rua E",
+    "numero": "50",
+    "bairro": "Residencial"
+  },
+  "descricao": "Furto de notebook",
+  "providencias": []
+},
+{
+  "_id": {
+    "$oid": "674d02ff928b56ee9fab56e2"
+  },
+  "cpf_usuario": "09831306988",
+  "num_serie_objeto": "456",
+  "data": "15-12-2024",
+  "local": {
+    "rua": "novw",
+    "numero": "10",
+    "bairro": "centro"
+  },
+  "descricao": "roubo",
+  "providencias": [
+    {
+      "matricula_agente": "54878",
+      "descricao": "Objeto recuperado e suspeito encaminhado à delegacia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674dc118b9de617a513212f2"
+  },
+  "cpf_usuario": "09831306988",
+  "num_serie_objeto": "111",
+  "data": "10/10/2024",
+  "local": {
+    "rua": "Rua Ottokar",
+    "numero": "300",
+    "bairro": "Centro"
+  },
+  "descricao": "Celular furtado da mesa do restaurante",
+  "providencias": [
+    {
+      "matricula_agente": "AGT001",
+      "descricao": "Realizado rondas no local e nada foi encontrado."
+    },
+    {
+      "matricula_agente": "54878",
+      "descricao": "Guarnição em apoio"
+    },
+    {
+      "matricula_agente": "AGT002",
+      "descricao": "Guarnição em apoio"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674dc169b9de617a513212f3"
+  },
+  "cpf_usuario": "09831306988",
+  "num_serie_objeto": "123",
+  "data": "15-11-2024",
+  "local": {
+    "rua": "Rua XV",
+    "numero": "145",
+    "bairro": "América"
+  },
+  "descricao": "Roubo de mochila e o notebook estava dentro da mochila",
+  "providencias": [
+    {
+      "matricula_agente": "AGT001",
+      "descricao": "Em deslocamento para o local do fato"
+    },
+    {
+      "matricula_agente": "AGT001",
+      "descricao": "A mochila foi localizada, porém, não havia nada dentro da mochila."
+    },
+    {
+      "matricula_agente": "54878",
+      "descricao": "Guarnição em apoio"
+    },
+    {
+      "matricula_agente": "AGT002",
+      "descricao": "Guarnição em apoio"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674dc1b7b9de617a513212f4"
+  },
+  "cpf_usuario": "09831306988",
+  "num_serie_objeto": "789",
+  "data": "01/12/2024",
+  "local": {
+    "rua": "Rua Princesa",
+    "numero": "10",
+    "bairro": "Centro"
+  },
+  "descricao": "Furto de bicicleta que estava no ponto de ônibus",
+  "providencias": [
+    {
+      "matricula_agente": "54878",
+      "descricao": "Localizado o suspeito e o objeto"
+    },
+    {
+      "matricula_agente": "54878",
+      "descricao": "Realizado o contato com o proprietário e o objeto foi devolvido"
+    },
+    {
+      "matricula_agente": "AGT001",
+      "descricao": "A guarnição Bravo prestou apoio"
+    },
+    {
+      "matricula_agente": "AGT002",
+      "descricao": "Guarnição em apoio"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674dc9fde301a227d01a14bb"
+  },
+  "cpf_usuario": "09831306988",
+  "num_serie_objeto": "222",
+  "data": "teste",
+  "local": {
+    "rua": "teste",
+    "numero": "000",
+    "bairro": "teste"
+  },
+  "descricao": "teste",
+  "providencias": []
+}]
